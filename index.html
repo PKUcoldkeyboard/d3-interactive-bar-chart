@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coffee Sales Visualization</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/skeuos.css">
+</head>
+<body onload="init()">
+    <div id="container">
+        <h2>咖啡销售数据可视化</h2>
+        <div class="topBar">
+            <select id="xdropdown">
+                <option>region</option>
+                <option>category</option>
+                <option>type</option>
+                <option>state</option>
+                <option>caffeination</option>
+            </select>
+            <select id="ydropdown">
+                <option>sales</option>
+                <option>profit</option>
+            </select>
+             <button onclick="regenerate()">Update</button>
+             <button onclick="sortBars()">Sort</button>
+        </div>
+        <div class="paper">
+            <div id="vis"></div>
+        </div>
+    </div>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="./js/main.js"></script>
+</html>
