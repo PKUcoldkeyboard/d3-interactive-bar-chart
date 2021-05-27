@@ -9,7 +9,7 @@
 ## 二、Main Features
 
 1. Interactive bar charts
-   1. xDropdown：region、category、type、state、caffeinationy轴：sales、profit
+   1. xDropdown：region、category、type、state、caffeination
    2. yDropdown：sales、profit
 2. mouseover hightlight：Move the mouse over and out the bars, you can change their colors to orange.
 3. Click-sorting：According to the value of the y-axis
