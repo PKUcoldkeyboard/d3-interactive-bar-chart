@@ -1,0 +1,63 @@
+#container h2 {
+    text-align: center;
+}
+
+.topBar {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 960px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.topBar select {
+    width: 160px;
+    height: 40px;
+}
+
+.topBar button {
+    width: 100px;
+    height: 40px;
+}
+
+.topBar select,
+button {
+    flex: 0 0 20%;
+    margin: 0 auto;
+}
+
+.paper {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 960px;
+    height: 480px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #7b7e8c;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    fill: #7b7e8c;
+}
+
+rect {
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+rect:hover {
+    fill: orange;
+}
