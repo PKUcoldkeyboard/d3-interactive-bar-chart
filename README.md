@@ -16,7 +16,9 @@
 
 ## 三、Visualization
 
-- Sales data by region![image-20210527194802234](https:/cloud.cuterwrite.fun/img/image-20210527194802234.png)
+- Sales data by region
+
+![image-20210527194802234](https:/cloud.cuterwrite.fun/img/image-20210527194802234.png)
 
 
 
@@ -25,7 +27,6 @@
 - Sales data by type
 
 ![image-20210527195055411](https:/cloud.cuterwrite.fun/img/image-20210527195055411.png)
-
 
 
 ---
