@@ -18,7 +18,7 @@
 
 - Sales data by region
 
-![image-20210527194802234](https:/cloud.cuterwrite.fun/img/image-20210527194802234.png)
+![FIG1](images/FIG1.png)
 
 
 
@@ -26,7 +26,7 @@
 
 - Sales data by type
 
-![image-20210527195055411](https:/cloud.cuterwrite.fun/img/image-20210527195055411.png)
+![FIG2](images/FIG2.png)
 
 
 ---
@@ -35,7 +35,7 @@
 
 - Sorted Sales data by type
 
-![image-20210527195145607](https:/cloud.cuterwrite.fun/img/image-20210527195145607.png)
+![FIG3](images/FIG3.png)
 
 - etc.
 
